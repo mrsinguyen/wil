@@ -1,0 +1,8 @@
+baseurl = "/"
+title = "What I Learned"
+languageCode = "en-US"
+theme = "hugo-dusk"
+
+[author]
+  description = "A Little Corner by Si Nguyen"
+  name = "Nguyen Tien Si"
