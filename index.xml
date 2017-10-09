@@ -6,10 +6,19 @@
     <description>Recent content on What I Learned</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 15 Aug 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Algorithms</title>
+      <link>/post/09-10-2017/</link>
+      <pubDate>Mon, 09 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/09-10-2017/</guid>
+      <description>Relearning Algorithms</description>
+    </item>
     
     <item>
       <title>The day that Bitcoin reach 1 satoshi = 1 VND</title>
