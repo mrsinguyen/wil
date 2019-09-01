@@ -23,6 +23,7 @@ hugo --theme=hugo-dusk
 
 echo "Adding the CNAME"
 echo "wil.tiensi.me" >> ./CNAME
+git add CNAME
 
 echo "Updating gh-pages branch"
 cd public
