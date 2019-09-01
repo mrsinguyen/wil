@@ -21,12 +21,9 @@ rm -rf public/*
 echo "Generating static site"
 hugo --theme=hugo-dusk
 
-echo "Adding the CNAME"
-echo "wil.tiensi.me" >> ./CNAME
-git add CNAME
-
 echo "Updating gh-pages branch"
 cd public
+echo "wil.tiensi.me" >> CNAME
 git add --all
 git commit -m "Deploying to gh-pages"
 git push
